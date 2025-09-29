@@ -62,10 +62,16 @@ The dashboard provides insights into the following key areas:
 
 ## 🛠️ Tools & Technologies
 
-* **Data Cleaning & Analysis**: Power Query
-* **Visualization & Dashboarding**: Power BI
+* **Data Transformation & Cleaning**: Power Query
+* **Visualization & Dashboarding**: Power BI Desktop
+* **Calculated Measures and conditional Logic**: DAX (Data Analysis Expressions)
 * **Version Control & Sharing**: GitHub
 
+---
+
+## Data Source : https://www.kaggle.com/datasets/khaledatef1/online-courses
+
+---
 
 ## 📌 Business Value
 
